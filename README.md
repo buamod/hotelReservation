@@ -1,2 +1,2 @@
-# hotelReservation
+# Hotel Reservation
 Hotel Reservation System
